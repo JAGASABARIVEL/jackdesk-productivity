@@ -10,7 +10,7 @@ from constants import ActivewatchApi, JckdeskApi, CentralServerApi
 from util import get_hostname
 
 CACHE_FILE = "aw_status.flag"
-SYNC_PERIOD = 120  # 2 minutes
+SYNC_PERIOD = 600  # 10 minutes
 HOST_VALIDATION_PERIOD = 30
 LOGIN_TIME_WAIT = 300
 CACHED_CREDS = {"email": None, "token": None}

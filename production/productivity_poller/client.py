@@ -20,7 +20,15 @@ class LoginWindow(QWidget):
         self.setWindowTitle('Jackdesk Productivity')
 
         # Ensure the window stays on top and gains focus
-        self.setWindowFlags(Qt.WindowStaysOnTopHint | Qt.FramelessWindowHint)
+        #self.setWindowFlags(Qt.WindowStaysOnTopHint | Qt.FramelessWindowHint)
+        self.setWindowFlags(
+            Qt.Window |
+            Qt.WindowStaysOnTopHint |
+            Qt.CustomizeWindowHint |
+            Qt.WindowTitleHint |
+            Qt.FramelessWindowHint
+        )
+
         
         self.showNormal()
         self.label = QLabel('Click below to sign in with Google:')
@@ -43,6 +51,16 @@ class LoginWindow(QWidget):
     def keyPressEvent(self, event):
         if event.key() == Qt.Key_Escape:
             self.close()
+
+    def mousePressEvent(self, event):
+        if event.button() == Qt.LeftButton:
+            self.drag_position = event.globalPos() - self.frameGeometry().topLeft()
+            event.accept()
+
+    def mouseMoveEvent(self, event):
+        if event.buttons() == Qt.LeftButton:
+            self.move(event.globalPos() - self.drag_position)
+            event.accept()
 
     def login(self):
         try:
