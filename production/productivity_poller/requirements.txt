@@ -1,0 +1,7 @@
+django
+djangorestframework
+requests
+PyQt5
+google-auth
+google-auth-oauthlib
+pyinstaller
