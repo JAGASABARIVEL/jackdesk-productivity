@@ -156,6 +156,7 @@ def sync_loop():
             )
             payload = {
                 "email": email,
+                "system": get_hostname(),
                 "window_events": window_events,
                 "afk_events": afk_events
             }
@@ -210,6 +211,7 @@ def sync__flush():
     )
     payload = {
         "email": email,
+        "system": get_hostname(),
         "window_events": window_events,
         "afk_events": afk_events
     }
