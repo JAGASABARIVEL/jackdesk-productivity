@@ -2,9 +2,11 @@ import os
 
 CONFIG_FILE = 'app.config'
 
-def load_config():
+def load_config(custom_config_path=None):
     configurations = {}
     config_file = os.path.join(os.path.dirname(__file__), CONFIG_FILE)
+    if custom_config_path:
+        config_file = custom_config_path
     with open(config_file, 'r') as config:
         for config_line in config.readlines():
             print("config_line ", config_line, config_line.split('='))
@@ -34,9 +36,9 @@ class CentralServerApi:
     TOKEN = f"http://{CENTRAL_SERVER_IP}:8000/productivity/token?"+"hostname={hostname}"
 
     @classmethod
-    def reload(cls):
+    def refresh_config(cls, custom_config_path=None):
         global configurations
-        configurations = load_config()
+        configurations = load_config(custom_config_path)
         CENTRAL_SERVER_IP = configurations[CentralServerApi.CENTRAL_SERVER_IP_KEY]
         CentralServerApi.REGISTER = f"http://{CENTRAL_SERVER_IP}:8000/productivity/register"
         CentralServerApi.UNREGISTER = f"http://{CENTRAL_SERVER_IP}:8000/productivity/unregister"

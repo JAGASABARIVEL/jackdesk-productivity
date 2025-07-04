@@ -4,7 +4,7 @@ python -m pip install --upgrade pip setuptools wheel
 2. Install requirements.txt
 
 For building JackConnect,
-pyinstaller --onefile --windowed --icon=logo.ico JackConnect.py --add-data "app.config;." --add-data "logo.png;." --add-data "disconnect.png;."
+pyinstaller --onefile --windowed --icon=logo.ico JackConnect.py --add-data "logo.png;." --add-data "disconnect.png;." --add-data "app.config;."
 
 For Building installer,
 pyinstaller --onefile --windowed --icon=logo.ico --add-data "logo.png;." JackWatchInstaller.py

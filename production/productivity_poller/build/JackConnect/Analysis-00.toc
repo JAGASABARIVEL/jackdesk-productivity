@@ -1739,11 +1739,11 @@
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\_distutils_hack\\override.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
    'PYMODULE'),
   ('tracemalloc',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
@@ -2952,95 +2952,95 @@
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\d3dcompiler_47.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\bin\\libEGL.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
-   'BINARY'),
   ('PyQt5\\Qt5\\bin\\libGLESv2.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libGLESv2.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+  ('PyQt5\\Qt5\\bin\\libEGL.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\libEGL.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwindows.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtga.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\iconengines\\qsvgicon.dll',
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qminimal.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qsvg.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qico.dll',
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\plugins\\platforms\\qwebgl.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\plugins\\styles\\qwindowsvistastyle.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
@@ -3125,11 +3125,6 @@
   ('VCRUNTIME140.dll',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
    'BINARY'),
-  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
-   'BINARY'),
   ('PyQt5\\Qt5\\bin\\VCRUNTIME140_1.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
@@ -3140,6 +3135,11 @@
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\MSVCP140.dll',
    'BINARY'),
+  ('PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\VCRUNTIME140.dll',
+   'BINARY'),
   ('PyQt5\\Qt5\\bin\\Qt5Gui.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
@@ -3149,6 +3149,19 @@
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Core.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
+   'BINARY'),
+  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\bin\\Qt5Network.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
@@ -3164,19 +3177,6 @@
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5WebSockets.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\bin\\Qt5DBus.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5DBus.dll',
-   'BINARY'),
-  ('VCRUNTIME140_1.dll',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
-   'BINARY'),
-  ('PyQt5\\Qt5\\bin\\Qt5Svg.dll',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\bin\\Qt5Svg.dll',
    'BINARY'),
   ('PyQt5\\Qt5\\bin\\Qt5Widgets.dll',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
@@ -3227,15 +3227,20 @@
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\production\\productivity_poller\\logo.png',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
-   'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
    'DATA'),
   ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
@@ -3252,15 +3257,10 @@
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
    'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
-   'DATA'),
-  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
    'DATA'),
   ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
@@ -3268,416 +3268,461 @@
    'Desktop\\desktop_env\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
    'ipsum.txt',
    'DATA'),
-  ('certifi\\cacert.pem',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\certifi\\cacert.pem',
-   'DATA'),
   ('certifi\\py.typed',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\certifi\\py.typed',
    'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+  ('certifi\\cacert.pem',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_de.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_es.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_it.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_en.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_da.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_he.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
-   'DATA'),
-  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
-   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
-   'Technologies\\Solvedesktop_Django\\Productivity Client '
-   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'Desktop\\desktop_env\\Lib\\site-packages\\certifi\\cacert.pem',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_hu.qm',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_hu.qm',
    'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_es.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_de.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_de.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_pt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_da.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_it.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_it.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_en.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_en.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_ca.qm',
+   'DATA'),
   ('PyQt5\\Qt5\\translations\\qt_help_sl.qm',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_fi.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_fi.qm',
    'DATA'),
   ('PyQt5\\Qt5\\translations\\qtbase_en.qm',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_en.qm',
    'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_he.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_he.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
+   'Technologies\\Solvedesktop_Django\\Productivity Client '
+   'Desktop\\desktop_env\\Lib\\site-packages\\PyQt5\\Qt5\\translations\\qt_help_es.qm',
+   'DATA'),
   ('base_library.zip',
    'C:\\Users\\Jagasabarivel_K\\OneDrive - Dell '
    'Technologies\\Solvedesktop_Django\\Productivity Client '
    'Desktop\\production\\productivity_poller\\build\\JackConnect\\base_library.zip',
    'DATA')],
- [('_collections_abc',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
+ [('locale',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
    'PYMODULE'),
-  ('types',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
+  ('operator',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
+   'PYMODULE'),
+  ('reprlib',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
+   'PYMODULE'),
+  ('io',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
    'PYMODULE'),
   ('stat',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\stat.py',
    'PYMODULE'),
-  ('collections',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
+  ('sre_parse',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
    'PYMODULE'),
   ('functools',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\functools.py',
    'PYMODULE'),
-  ('abc',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
+  ('re._parser',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
+   'PYMODULE'),
+  ('re._constants',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
+   'PYMODULE'),
+  ('re._compiler',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
+   'PYMODULE'),
+  ('re._casefix',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
+   'PYMODULE'),
+  ('re',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
+   'PYMODULE'),
+  ('heapq',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
+   'PYMODULE'),
+  ('collections',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\collections\\__init__.py',
+   'PYMODULE'),
+  ('weakref',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
+   'PYMODULE'),
+  ('types',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\types.py',
+   'PYMODULE'),
+  ('copyreg',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
+   'PYMODULE'),
+  ('codecs',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
+   'PYMODULE'),
+  ('enum',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
+   'PYMODULE'),
+  ('_collections_abc',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_collections_abc.py',
    'PYMODULE'),
   ('encodings.zlib_codec',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\zlib_codec.py',
@@ -4045,77 +4090,32 @@
   ('encodings',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\encodings\\__init__.py',
    'PYMODULE'),
-  ('weakref',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\weakref.py',
-   'PYMODULE'),
-  ('enum',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\enum.py',
-   'PYMODULE'),
-  ('operator',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\operator.py',
-   'PYMODULE'),
-  ('copyreg',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\copyreg.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ntpath.py',
-   'PYMODULE'),
-  ('heapq',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\heapq.py',
-   'PYMODULE'),
-  ('linecache',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
-   'PYMODULE'),
   ('sre_constants',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_constants.py',
-   'PYMODULE'),
-  ('codecs',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\codecs.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\genericpath.py',
-   'PYMODULE'),
-  ('io',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\io.py',
-   'PYMODULE'),
-  ('keyword',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
-   'PYMODULE'),
-  ('traceback',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
-   'PYMODULE'),
-  ('reprlib',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\reprlib.py',
    'PYMODULE'),
   ('sre_compile',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_compile.py',
    'PYMODULE'),
-  ('re._parser',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_parser.py',
+  ('linecache',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\linecache.py',
    'PYMODULE'),
-  ('re._constants',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_constants.py',
+  ('abc',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\abc.py',
    'PYMODULE'),
-  ('re._compiler',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_compiler.py',
-   'PYMODULE'),
-  ('re._casefix',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\_casefix.py',
-   'PYMODULE'),
-  ('re',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\re\\__init__.py',
-   'PYMODULE'),
-  ('locale',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\locale.py',
-   'PYMODULE'),
-  ('sre_parse',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\sre_parse.py',
-   'PYMODULE'),
-  ('warnings',
-   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
+  ('keyword',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\keyword.py',
    'PYMODULE'),
   ('_weakrefset',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_weakrefset.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\posixpath.py',
+   'PYMODULE'),
+  ('traceback',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\traceback.py',
+   'PYMODULE'),
+  ('warnings',
+   'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\warnings.py',
    'PYMODULE'),
   ('os',
    'C:\\Users\\Jagasabarivel_K\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\os.py',

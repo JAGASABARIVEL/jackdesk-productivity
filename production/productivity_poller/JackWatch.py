@@ -13,7 +13,7 @@ from util import get_hostname, get_credentials_from_server
 CACHE_FILE = "aw_status.flag"
 SYNC_PERIOD = 60  # 10 minute - TODO
 HOST_VALIDATION_PERIOD = 30
-LOGIN_TIME_WAIT = 30 # 30 minutes - TODO
+LOGIN_TIME_WAIT = 300 # 30 minutes - TODO
 CACHED_CREDS = {"email": None, "token": None}
 
 LAST_ID_FILES = {

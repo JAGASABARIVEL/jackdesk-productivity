@@ -5,7 +5,7 @@ a = Analysis(
     ['JackConnect.py'],
     pathex=[],
     binaries=[],
-    datas=[('app.config', '.'), ('logo.png', '.'), ('disconnect.png', '.')],
+    datas=[('logo.png', '.'), ('disconnect.png', '.'), ('app.config', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

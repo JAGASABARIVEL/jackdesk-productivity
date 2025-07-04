@@ -1,8 +1,9 @@
 import requests
 from constants import CentralServerApi  # e.g., CENTRAL_REGISTER = http://yourapi/register_device/
 
-def register_device_with_server(email, token, hostname):
+def register_device_with_server(email, token, hostname, custom_config_path=None):
     try:
+        CentralServerApi.refresh_config(custom_config_path)
         response = requests.post(
             CentralServerApi.REGISTER,
             json={"email": email, "token": token, "hostname": hostname},
@@ -17,9 +18,10 @@ def register_device_with_server(email, token, hostname):
         return False
 
 
-def unregister_device_from_server(email, token, hostname):
+def unregister_device_from_server(email, token, hostname, custom_config_path=None):
     try:
         print("CentralServerApi.UNREGISTER ", CentralServerApi.UNREGISTER)
+        CentralServerApi.refresh_config(custom_config_path)
         response = requests.delete(
             CentralServerApi.UNREGISTER,
             json={"email": email, "token": token, "hostname": hostname},
